@@ -143,3 +143,4 @@ Date:   Mon Dec 2 02:05:41 2024 +0400
     > This registers the current `pagila` commit as the commit your project will use.
     > When the test cases download the pagila submodule,
     > they will automatically checkout the correct commit hash.
+
